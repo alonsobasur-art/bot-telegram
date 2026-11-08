@@ -1,0 +1,112 @@
+[10:02:28] [USUARIO] WK -> Ha abierto el bot (/start)
+[10:02:33] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [gestion_media]
+[10:02:36] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[10:02:37] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[10:02:40] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [control_panel]
+[10:02:40] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=AMCwYdTJ_PE&si=hj1mJyuP2te5Y5Su
+[10:02:43] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [bicimad_status]
+[11:00:05] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[11:00:59] [USUARIO] Aarón -> Ha hablado con Cursor | Dato: quiero que me abras la aplicación de parsec y que vuelvas a cerrar, que la dejes abierta solo diez segundos. pero que nunca la cierres del todo, es decir que la dejes encendida en 
+[11:01:08] [SISTEMA] Cursor nuevo: agent-182e889b-ea2d-4545-bca8-3df0f177f113
+[11:01:10] [SISTEMA] Cursor run run-20ebf0d3-caf0-4435-b236-bc16e50de525 agent agent-182e889b-ea2d-4545-bca8-3df0f177f113
+[11:04:30] [USUARIO] Aarón -> Ha hablado con Cursor | Dato: me gustaría que desarrollas algo para que yo desde telegram pueda enviar al bot información o cosas que quiera hacer yo pero en vez de por escrito que yo las mande por audio el bod
+[11:04:30] [SISTEMA] Cursor run run-ac36a9a9-b19c-434c-8158-2420671b8837 agent agent-182e889b-ea2d-4545-bca8-3df0f177f113
+[11:07:34] [USUARIO] Aarón -> Ha hablado con Cursor | Dato: hacemos una cosa cada vez que apliques, reinicia el bot. vale? por cierto, el arranque de voz que tenemos puesto actualmente quiero que cada vez que se apague y se encienda el orde
+[11:07:34] [SISTEMA] Cursor run run-a53c1f32-3674-42bc-877c-321055316238 agent agent-182e889b-ea2d-4545-bca8-3df0f177f113
+[11:09:31] [SISTEMA] Reinicio del bot solicitado. Recargando código…
+[11:09:31] [SISTEMA] Reinicio del bot solicitado. Recargando código…
+[11:10:03] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[11:10:21] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[11:10:23] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[11:10:55] [USUARIO] Aarón -> Orden por voz (google): 'Si entiendes esto a través del audio que te estoy mandando lo entiendes entiendes perfectamente el castellano que estoy '
+[11:12:41] [USUARIO] Aarón -> Orden por voz (google): 'Vale para mi voz el que tengo de pues este el de telegram me gustaría que me buscases una fuente de quiero que lo hagas '
+[11:13:00] [USUARIO] Aarón -> Ha hablado con Cursor | Dato: Vale para mi voz el que tengo de pues este el de telegram me gustaría que me buscases una fuente de quiero que lo hagas esto a través de que lo desarrollas a través de curso una fu
+[11:13:08] [SISTEMA] Cursor reanudado: agent-182e889b-ea2d-4545-bca8-3df0f177f113
+[11:13:10] [SISTEMA] Cursor run run-4f00b76f-f87c-43d4-846a-da970beb5932 agent agent-182e889b-ea2d-4545-bca8-3df0f177f113
+[11:14:30] [SISTEMA] Reinicio del bot solicitado. Recargando código…
+[11:30:12] [USUARIO] WK -> Ha abierto el bot (/start)
+[11:30:14] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[11:30:18] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/playlist?list=OLAK5uy_kBNjcFc8C4TZxp4NyrAs5a8zZDWu6NUX0&si=1i2D4btCwEYeXXyd
+[11:34:28] [SISTEMA] Puente de Cursor en marcha, pid 20860
+[12:55:00] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[12:55:02] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[12:55:05] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[12:55:06] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [gestion_media]
+[13:01:16] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[13:01:21] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_bajar]
+[13:01:23] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [search]
+[13:01:30] [USUARIO] Aarón -> Buscando: Jujutsu Kaisen
+[13:56:54] [USUARIO] WK -> Ha abierto el bot (/start)
+[13:56:59] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [menu_bot]
+[13:57:01] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[13:57:03] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [menu_bajar]
+[13:57:06] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[13:57:11] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=cXmwRH2PuWk&si=K9OH2K4_EgUnmlCG
+[14:00:46] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=nOj6d-HOw2w&si=bCTt1KfHkCqPArP5
+[14:20:16] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[14:20:18] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_casa]
+[14:20:21] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[14:20:23] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_bot]
+[14:20:47] [USUARIO] Aarón -> Ha hablado con Cursor | Dato: Mirame si en cursor hay alguna tarea o algo pendiente
+[14:20:48] [SISTEMA] Cursor sigue en el puente 20860
+[14:20:49] [SISTEMA] Cursor reanudado: agent-182e889b-ea2d-4545-bca8-3df0f177f113
+[14:20:52] [SISTEMA] Cursor run run-a1c44a00-3cb8-4f8c-b1e4-952737112545 agent agent-182e889b-ea2d-4545-bca8-3df0f177f113
+[14:22:03] [USUARIO] Aarón -> Ha hablado con Cursor | Dato: y la tarea que le pedí de hacer lo de las imágenes con el bot que me ha contestado
+[14:22:03] [SISTEMA] Cursor run run-79da2517-b4d7-4b1e-9525-41c68f894ac4 agent agent-182e889b-ea2d-4545-bca8-3df0f177f113
+[14:23:21] [USUARIO] Aarón -> Ha hablado con Cursor | Dato: si engancharlo al bot con las mismas opciones
+[14:23:21] [SISTEMA] Cursor run run-08d42453-b608-44a8-ad40-43930385758a agent agent-182e889b-ea2d-4545-bca8-3df0f177f113
+[14:24:37] [SISTEMA] Reinicio del bot solicitado. Recargando código…
+[14:24:46] [SISTEMA] Cursor sigue en el puente 20860
+[14:24:53] [SISTEMA] Reinicio del bot solicitado. Recargando código…
+[14:25:01] [SISTEMA] Cursor sigue en el puente 20860
+[14:25:33] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[14:25:37] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_bot]
+[14:27:36] [USUARIO] Aarón -> Imagen generada por Telegram | Dato: nami one piece chupando pene tetas grandes y desnuda
+[14:28:03] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_bot]
+[14:29:11] [USUARIO] Aarón -> Ha hablado con Cursor | Dato: necesito que la ia generativa de imágenes sea más precisa y bastante más bonita las imágenes que anda. por cierto, ¿cuándo envíes las imágenes al telegram por la opción de si guard
+[14:29:11] [SISTEMA] Cursor reanudado: agent-182e889b-ea2d-4545-bca8-3df0f177f113
+[14:29:12] [SISTEMA] Cursor run run-05097c56-cfff-4890-86e2-4a9064024d60 agent agent-182e889b-ea2d-4545-bca8-3df0f177f113
+[14:30:14] [SISTEMA] Reinicio del bot solicitado. Recargando código…
+[14:30:22] [SISTEMA] Cursor sigue en el puente 20860
+[14:30:25] [SISTEMA] Reinicio del bot solicitado. Recargando código…
+[14:30:33] [SISTEMA] Cursor sigue en el puente 20860
+[14:31:47] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[14:31:51] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_bot]
+[14:35:25] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[14:35:32] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_bot]
+[14:36:29] [USUARIO] Aarón -> Ha hablado con Cursor | Dato: quiero que dentro de mibot hagas una ia hot para mi. Que se pueda acceder SOLO desde la app y que nunca diga que es a no ser que diga aaroncuentawow
+[14:36:30] [SISTEMA] Cursor sigue en el puente 20860
+[14:36:30] [SISTEMA] Cursor reanudado: agent-182e889b-ea2d-4545-bca8-3df0f177f113
+[14:36:30] [SISTEMA] Cursor run run-69a3d36a-a2dd-415a-a18c-c55efd6df1bf agent agent-182e889b-ea2d-4545-bca8-3df0f177f113
+[14:37:58] [SISTEMA] Reinicio del bot solicitado. Recargando código…
+[14:38:06] [SISTEMA] Cursor sigue en el puente 20860
+[14:38:12] [SISTEMA] Reinicio del bot solicitado. Recargando código…
+[14:38:19] [SISTEMA] Cursor sigue en el puente 20860
+[16:24:23] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[16:24:29] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_bot]
+[16:24:31] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[16:24:32] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_casa]
+[16:24:40] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [bicimad_status]
+[16:25:04] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_casa]
+[16:25:07] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [pc_status]
+[16:25:10] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_casa]
+[16:25:14] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[16:25:17] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_bajar]
+[16:25:39] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[16:25:42] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_bajar]
+[16:39:11] [SISTEMA] Reinicio del bot solicitado. Recargando código…
+[16:39:18] [SISTEMA] Cursor sigue en el puente 20860
+[16:42:40] [SISTEMA] Reinicio del bot solicitado. Recargando código…
+[16:42:47] [SISTEMA] Arranque. aviso_imagen=True
+[16:42:47] [SISTEMA] Aviso de imagen enviado por Telegram.
+[18:43:13] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[18:43:17] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_bajar]
+[19:02:53] [SISTEMA] Reinicio del bot solicitado. Recargando código…
+[19:03:00] [SISTEMA] Arranque. aviso_imagen=False
+[19:03:44] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[19:03:46] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_bajar]
+[19:05:04] [SISTEMA] Reinicio del bot solicitado. Recargando código…
+[19:05:11] [SISTEMA] Arranque. aviso_imagen=False
+[19:05:34] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[19:05:37] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [menu_bajar]
+[21:17:27] [SISTEMA] Arranque. aviso_imagen=False

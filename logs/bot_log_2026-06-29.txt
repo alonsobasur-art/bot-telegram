@@ -1,0 +1,13 @@
+[23:31:03] [USUARIO] WK -> Ha abierto el bot (/start)
+[23:31:27] [USUARIO] WK -> Ha abierto el bot (/start)
+[23:31:45] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[23:31:48] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=HAGdPQPD7p8&si=j0bLMwDNdqtn8BDF
+[23:36:35] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/playlist?list=PLf1ZU3tT4Lko&si=9LtwzvE2Lig3E22U
+[23:48:58] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=n7UVY8h6gW8&si=lcmYUZ5KGkvAdvyJ
+[23:50:12] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=6KjVYeQ9SRw&si=lJ3q5BpBX5IoV8Er
+[23:51:13] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=bbxgXN1pUMI&si=qZ6dtiOaEpxJTfbm
+[23:52:20] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=3-_p7EZCfY4&si=gYp7CLFvQ1I9Kqxu
+[23:53:16] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=OdpjMB63Ft8&si=PwB4QRemKtd6uyrD
+[23:54:49] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=77jqLh8fCx8&si=U4dWL7p7fIcsaYQA
+[23:56:15] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=_SjWyd7LxZ8&si=Icf1aM6_f0iCDviL
+[23:59:57] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=1Ydxiz_etcs&si=gjZNNkTpLHtzAd2k

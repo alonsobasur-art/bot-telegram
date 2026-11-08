@@ -1,0 +1,10 @@
+[09:27:01] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[09:27:03] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[09:27:07] [USUARIO] Aarón -> Ha pegado un enlace multimedia | Dato: https://m.animeflv.net/ver/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-10
+[09:27:29] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[09:27:30] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[09:27:34] [USUARIO] Aarón -> Ha pegado un enlace multimedia | Dato: https://m.animeflv.net/ver/jujutsu-kaisen-shimetsu-kaiyuu-zenpen-10
+[21:26:28] [USUARIO] WK -> Ha abierto el bot (/start)
+[21:26:38] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [gestion_media]
+[21:26:45] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[21:26:47] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]

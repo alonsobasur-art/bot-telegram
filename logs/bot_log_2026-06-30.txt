@@ -1,0 +1,5 @@
+[00:01:06] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=XuKq7zT_0nM&si=eVJFXn3YXohRUJ8z
+[00:02:01] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=jDNsi-HHYcI&si=oMYIY-cdsElJ4Wdj
+[00:03:15] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=dYyTFi7TCns&si=mhODnzTZdGCheMjx
+[00:04:28] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=43e0Bv4P_3k&si=GPAmSos9wQEoFZva
+[00:06:19] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=KHyRlfn0aX4&si=fSjdDqAHZ5M6ZOR8

@@ -1,0 +1,7 @@
+[14:24:46] [ERROR] Cursor no arrancó: Cloud agent SDK calls through a caller-supplied bridge require an explicit api_key retryable=False
+[14:30:22] [ERROR] Cursor no arrancó: Cloud agent SDK calls through a caller-supplied bridge require an explicit api_key retryable=False
+[14:30:33] [ERROR] Cursor no arrancó: Cloud agent SDK calls through a caller-supplied bridge require an explicit api_key retryable=False
+[14:38:06] [ERROR] Cursor no arrancó: Cloud agent SDK calls through a caller-supplied bridge require an explicit api_key retryable=False
+[14:38:19] [ERROR] Cursor no arrancó: Cloud agent SDK calls through a caller-supplied bridge require an explicit api_key retryable=False
+[19:04:03] [ERROR] Radarr no pudo buscar 'Monster High': HTTPConnectionPool(host='localhost', port=7878): Read timed out. (read timeout=8)
+[19:05:51] [ERROR] Radarr no pudo buscar 'Monster High': HTTPConnectionPool(host='localhost', port=7878): Read timed out. (read timeout=8)

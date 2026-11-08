@@ -1,0 +1,38 @@
+[08:35:08] [USUARIO] WK -> Ha abierto el bot (/start)
+[08:35:11] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[08:35:13] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=u-H2PWF0dro&si=AtAo_EoumZriu-fX
+[08:35:47] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=-5GI38vWew8&si=n-HhJ68LGmvcOEhW
+[08:36:21] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=KsVnVdM9bUc&si=FBWOSa-IzKDpvHLb
+[08:36:56] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=xDR2YZl8PFc&si=cdWdJMj5wWANIbMZ
+[08:37:44] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=tmWwo5QMMmU&si=s5wYD08ivD5dpLqn
+[18:42:00] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[18:42:03] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[18:42:05] [USUARIO] Aarón -> Ha pegado un enlace multimedia | Dato: https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L?si=Rq_7nw9lSeuzEe4eyz_PZg
+[18:48:23] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[18:48:25] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[18:48:36] [USUARIO] Aarón -> Ha pegado un enlace multimedia | Dato: https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L?si=Rq_7nw9lSeuzEe4eyz_PZg
+[18:51:34] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[18:51:39] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[18:51:41] [USUARIO] Aarón -> Ha pegado un enlace multimedia | Dato: https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L?si=Rq_7nw9lSeuzEe4eyz_PZg
+[18:54:04] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[18:54:06] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[18:54:14] [USUARIO] Aarón -> Ha pegado un enlace multimedia | Dato: https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L?si=Rq_7nw9lSeuzEe4eyz_PZg
+[18:56:31] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[18:56:38] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[18:56:40] [USUARIO] Aarón -> Ha pegado un enlace multimedia | Dato: https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L?si=Rq_7nw9lSeuzEe4eyz_PZg
+[19:02:52] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[19:02:55] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[19:02:58] [USUARIO] Aarón -> Ha pegado un enlace multimedia | Dato: https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L?si=Rq_7nw9lSeuzEe4eyz_PZg
+[19:07:15] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[19:07:20] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[19:07:22] [USUARIO] Aarón -> Ha pegado un enlace multimedia | Dato: https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L?si=Rq_7nw9lSeuzEe4eyz_PZg
+[19:26:29] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[19:26:37] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [gestion_media]
+[19:26:41] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[19:26:43] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [control_panel]
+[19:26:44] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [bicimad_status]
+[19:33:51] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[19:33:53] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [control_panel]
+[19:33:54] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [bicimad_status]
+[19:33:59] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [bicimad_status]
+[20:01:53] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [bicimad_status]

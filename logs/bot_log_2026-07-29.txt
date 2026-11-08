@@ -1,0 +1,5 @@
+[11:47:22] [USUARIO] WK -> Ha abierto el bot (/start)
+[12:23:35] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [gestion_media]
+[12:23:38] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[12:23:39] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[12:23:55] [USUARIO] WK -> Ha iniciado una nueva descarga 🚀

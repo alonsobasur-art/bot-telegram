@@ -1,0 +1,6 @@
+[14:49:11] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[14:49:16] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [help]
+[14:49:30] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[14:49:34] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [help]
+[14:49:35] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[14:49:36] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [gestion_media]

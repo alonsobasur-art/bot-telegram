@@ -1,0 +1,6 @@
+[10:59:03] [USUARIO] WK -> Ha abierto el bot (/start)
+[10:59:05] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[10:59:09] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=MX7FSAnRPug&si=TAHJIsRLPnEcmymJ
+[13:42:24] [USUARIO] WK -> Ha abierto el bot (/start)
+[13:42:26] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[13:42:37] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=MX7FSAnRPug&si=EyHDU52IdC6-DW-3

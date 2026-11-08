@@ -1,0 +1,8 @@
+[19:22:03] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[19:22:08] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [control_panel]
+[19:25:38] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[19:25:42] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [control_panel]
+[19:27:14] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [control_panel]
+[19:41:06] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[19:41:08] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[19:41:10] [USUARIO] Aarón -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/playlist?list=PLhffk10zgayzOivOyjKviZV636Uc1gxxX&si=JGo-zh3br234jwi3

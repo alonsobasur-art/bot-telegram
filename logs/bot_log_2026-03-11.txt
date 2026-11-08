@@ -1,0 +1,10 @@
+[09:16:12] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[09:16:14] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[09:16:20] [USUARIO] Aarón -> Ha pegado un enlace multimedia | Dato: https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L?si=Rq_7nw9lSeuzEe4eyz_PZg
+[22:27:59] [USUARIO] WK -> Ha abierto el bot (/start)
+[22:28:02] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[22:28:05] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/playlist?list=PLxx5traeJlG-NkTspMOusKd9VZvvnqp6T&si=kZCshlHFwwea-FcI
+[22:33:42] [USUARIO] WK -> Ha abierto el bot (/start)
+[22:33:45] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [control_panel]
+[22:33:53] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [control_panel]
+[22:34:30] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [control_panel]

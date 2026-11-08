@@ -1,0 +1,3 @@
+[21:22:30] [USUARIO] WK -> Ha abierto el bot (/start)
+[21:22:30] [USUARIO] WK -> Ha abierto el bot (/start)
+[21:22:31] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=JYekRpqL4O8&si=nRRvZoRv-PUV5jhj

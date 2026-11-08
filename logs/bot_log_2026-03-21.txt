@@ -1,0 +1,17 @@
+[10:55:37] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[10:55:40] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [gestion_media]
+[10:58:26] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[10:58:29] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [gestion_media]
+[11:44:06] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[11:44:10] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [gestion_media]
+[18:12:20] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[18:12:21] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[18:12:47] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[18:12:56] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [gestion_media]
+[18:13:07] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[18:13:09] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [control_panel]
+[18:14:12] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[18:14:17] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [control_panel]
+[18:14:21] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [parsec_status]
+[18:14:23] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [control_panel]
+[18:14:28] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]

@@ -1,0 +1,3 @@
+[20:31:26] [USUARIO] WK -> Ha abierto el bot (/start)
+[20:31:59] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[20:32:01] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://www.instagram.com/reel/DBV831lsUUe/?igsh=MWRvNjAwMTV5emxi

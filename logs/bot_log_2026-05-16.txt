@@ -1,0 +1,4 @@
+[22:13:12] [USUARIO] WK -> Ha abierto el bot (/start)
+[22:13:15] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[22:13:17] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[22:13:19] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [gestion_media]

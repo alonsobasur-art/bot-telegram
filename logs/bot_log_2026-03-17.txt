@@ -1,0 +1,40 @@
+[13:22:00] [USUARIO] Aarón -> Ha abierto el bot (/start)
+[13:22:02] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[13:22:03] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[13:22:06] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [gestion_media]
+[13:22:08] [USUARIO] Aarón -> Ha tocado un botón del menú | Dato: Navegando a: [search]
+[13:22:24] [USUARIO] Aarón -> Buscando: Hamnet
+[13:22:35] [USUARIO] Aarón -> Ha iniciado una nueva descarga 🚀
+[13:34:36] [USUARIO] Lola -> Ha abierto el bot (/start)
+[13:34:52] [USUARIO] Lola -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[13:35:12] [USUARIO] Lola -> Ha iniciado una nueva descarga 🚀
+[13:35:30] [USUARIO] Lola -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[13:35:39] [USUARIO] Lola -> Ha tocado un botón del menú | Dato: Navegando a: [control_panel]
+[15:06:00] [USUARIO] Lola -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[15:06:11] [USUARIO] Lola -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[15:06:22] [USUARIO] Lola -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[15:13:15] [USUARIO] Lola -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[15:13:26] [USUARIO] Lola -> Ha iniciado una nueva descarga 🚀
+[15:13:32] [USUARIO] Lola -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[15:13:38] [USUARIO] Lola -> Ha tocado un botón del menú | Dato: Navegando a: [gestion_media]
+[15:13:45] [USUARIO] Lola -> Ha tocado un botón del menú | Dato: Navegando a: [search]
+[15:13:52] [USUARIO] Lola -> Buscando: Bamby
+[15:14:11] [USUARIO] Lola -> Ha tocado un botón del menú | Dato: Navegando a: [back_to_main]
+[15:14:33] [USUARIO] Lola -> Ha tocado un botón del menú | Dato: Navegando a: [gestion_media]
+[15:14:39] [USUARIO] Lola -> Ha tocado un botón del menú | Dato: Navegando a: [search]
+[15:14:49] [USUARIO] Lola -> Buscando: Ley y orden
+[15:14:58] [USUARIO] Lola -> Ha iniciado una nueva descarga 🚀
+[22:42:23] [USUARIO] WK -> Ha abierto el bot (/start)
+[22:42:26] [USUARIO] WK -> Ha tocado un botón del menú | Dato: Navegando a: [magnet]
+[22:42:29] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/playlist?list=PLxx5traeJlG8wtl44oxyf2_CR3iSnBn2S&si=r5KC6AM6Gppd7BOB
+[22:48:29] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/playlist?list=PLxx5traeJlG8wtl44oxyf2_CR3iSnBn2S&si=r5KC6AM6Gppd7BOB
+[22:50:41] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/playlist?list=PLxx5traeJlG8wtl44oxyf2_CR3iSnBn2S&si=_rxXxbfL-PY6JbHP
+[22:54:37] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=JYekRpqL4O8&si=eVoebUViOIwTFcSg
+[22:55:16] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=2x9aY0QJR04&si=XV5iSHFOaWbgbDnE
+[22:56:15] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=OampN5hXqAU&si=74fQA5L5Mi4xobTa
+[22:57:08] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=J-7knuczw2E&si=Oz8E-3qLK3zAjLDG
+[22:57:47] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=K0vXF7lJcWY&si=PJ2C4I-0hao2-PaT
+[22:58:35] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=g5dLe5VPAAo&si=lF4yuxQpQVm3_kwg
+[22:59:12] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=ddDYuehbO74&si=UhG7rsUplGeykiWA
+[22:59:48] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://music.youtube.com/watch?v=sLJsaFYnsjE&si=nworUw_LFJJvyMHL
+[23:02:12] [USUARIO] WK -> Ha pegado un enlace multimedia | Dato: https://www.instagram.com/reel/DVeo9qUAFPm/?igsh=YzhjamUyZ3NteGJq
