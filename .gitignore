@@ -8,3 +8,11 @@ voice_orders.json
 restart_bot.request
 aviso_imagen_telegram.flag
 hot_chat_hist.json
+cookies.txt
+.venv/
+logs/
+__pycache__/
+.env
+*.bak*
+arranque-err.txt
+arranque-out.txt

@@ -34,6 +34,12 @@ import anime_torrent_sources
 import imagen_telegram
 import hot_chat
 
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
+
 init(autoreset=True)
 
 # ==========================================
@@ -163,8 +169,8 @@ EMT_PASSWORD = "Pinpantoma1!"
 # ID de mi madre y de Juan
 ADMIN_IDS = [1156812303, 5188345207, 7356746702]
 
-BASE_DOWNLOAD_PATH = 'Z:/Descargas_Bot'
-PLEX_FINAL_PATH = 'Z:/Plex_Confirmados'
+BASE_DOWNLOAD_PATH = 'D:/Descargas torrent'
+PLEX_FINAL_PATH = 'D:/Plex_Confirmados'
 
 PLEX_URL = "http://127.0.0.1:32400"
 PLEX_TOKEN = "X3SsGBPPYvxyuhGs5GCi"
@@ -172,7 +178,7 @@ PLEX_TOKEN = "X3SsGBPPYvxyuhGs5GCi"
 # 🎬 CONEXIÓN RADARR (CINE AUTOMÁTICO ZERO-TOUCH)
 RADARR_URL = "http://localhost:7878"
 RADARR_API_KEY = "61ddd80788fa4a3b8738c4d39a95225f" # <--- ¡Pega aquí la API Key larga que copiaste antes en Prowlarr!
-RADARR_ROOT_FOLDER = r"Z:\Plex_Confirmados\Peliculas"
+RADARR_ROOT_FOLDER = r"D:\Plex_Confirmados\Peliculas"
 
 MENU, AWAITING_MAGNET, AWAITING_SEARCH, POST_DOWNLOAD_DECISION, RENAMING, MOVING_CATEGORY, SUBTITLES_SEARCH, PLEX_UPDATE, AWAITING_NEW_SERIES, DEV_MENU, AWAITING_DEV_SEARCH, AWAITING_DEV_REPLACE, AWAITING_ARTIST, AWAITING_APK_SEARCH, AWAITING_MANGA_SEARCH, AWAITING_RADARR_SEARCH, AWAITING_CURSOR, AWAITING_VOICE_CONFIRM, AWAITING_VOICE_EDIT, AWAITING_IMAGEN_PROMPT, AWAITING_IMAGEN_SEED, AWAITING_IMAGEN_REF, AWAITING_HOT = range(23)
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
@@ -1663,7 +1669,7 @@ async def process_magnet_loop(update: Update, context: ContextTypes.DEFAULT_TYPE
         await status_msg.edit_text(
             f"✅ **¡APK Descargada con Éxito!**\n\n"
             f"📦 **Archivo:** `{real_filename}`\n"
-            f"📂 **Guardado en tu Google Drive** (`Z:/Descargas_Bot`)\n\n"
+            f"📂 **Guardado en tu Google Drive** (`D:/Descargas torrent`)\n\n"
             f"📱 _En cuanto se sincronice, abre la app de Drive en tu móvil e instálala desde ahí._", 
             parse_mode='Markdown'
         )
@@ -3022,7 +3028,7 @@ async def process_manga_cbz(update, context, chapters, base_folder, status_msg):
         except Exception as e:
             print(f"Error bajando el capítulo {cap_num}: {e}")
             
-    await status_msg.edit_text(f"✅ **¡Manga Descargado y Empaquetado!** 📚\n\n📂 Formato: `.cbz` (Alta Calidad)\n📍 Guardado en tu Google Drive: `Z:/Descargas_Bot/Mangas`", parse_mode='Markdown')
+    await status_msg.edit_text(f"✅ **¡Manga Descargado y Empaquetado!** 📚\n\n📂 Formato: `.cbz` (Alta Calidad)\n📍 Guardado en tu Google Drive: `D:/Descargas torrent/Mangas`", parse_mode='Markdown')
 
 # ==========================================
 # 📱 DESCARGADOR MULTIMEDIA (YT, IG, TIKTOK)
@@ -4300,7 +4306,7 @@ async def handle_aspiradora_actions(update: Update, context: ContextTypes.DEFAUL
         
         if not episodios: return MENU
         
-        await query.edit_message_text(f"🌪️ **MODO ASPIRADORA ACTIVADO**\n\nHe puesto en cola la extracción de {len(episodios)} episodios de `{title}`.\nSe descargarán uno a uno en segundo plano y se dejarán en tu carpeta Z:/Descargas_Bot.", parse_mode='Markdown')
+        await query.edit_message_text(f"🌪️ **MODO ASPIRADORA ACTIVADO**\n\nHe puesto en cola la extracción de {len(episodios)} episodios de `{title}`.\nSe descargarán uno a uno en segundo plano y se dejarán en tu carpeta D:/Descargas torrent.", parse_mode='Markdown')
         
         asyncio.create_task(run_aspiradora_loop(update, context, episodios, title))
         return MENU

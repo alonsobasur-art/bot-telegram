@@ -8,7 +8,7 @@ import sys
 
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 
-PANEL = Path(r"C:\Users\JUEGOS\Desktop\Panel Bots")
+PANEL = Path(r"C:\Servicios\Panel Bots")
 if str(PANEL) not in sys.path:
     sys.path.insert(0, str(PANEL))
 

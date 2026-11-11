@@ -1,0 +1,12 @@
+python-telegram-bot>=21
+beautifulsoup4
+aria2p
+requests
+psutil
+yt-dlp
+colorama
+subliminal
+babelfish
+SpeechRecognition
+pydub
+mutagen
